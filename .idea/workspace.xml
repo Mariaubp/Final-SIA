@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="426ba52f-addc-48e1-b6e5-6c828fc83827" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/FinalSia.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sia/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sia/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sia/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sia/Main.class" afterDir="false" />
-    </list>
+    <list default="true" id="426ba52f-addc-48e1-b6e5-6c828fc83827" name="Changes" comment="creacion de interfaz" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -83,11 +75,24 @@
       <workItem from="1738627320518" duration="609000" />
       <workItem from="1738628195241" duration="1725000" />
       <workItem from="1738989955995" duration="1656000" />
-      <workItem from="1739015658007" duration="9712000" />
+      <workItem from="1739015658007" duration="10414000" />
     </task>
+    <task id="LOCAL-00001" summary="creacion de interfaz">
+      <option name="closed" value="true" />
+      <created>1739027610749</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739027610749</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="creacion de interfaz" />
+    <option name="LAST_COMMIT_MESSAGE" value="creacion de interfaz" />
   </component>
 </project>
